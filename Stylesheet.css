@@ -1,0 +1,59 @@
+body{
+  background-color: #f4eeff;
+  text-align: center;
+  margin: 80px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  color: #40514e;
+}
+div{
+  background-color: white;
+  border-radius: 2%;
+  width: 22%;
+  margin: 5px;
+  text-align: left;
+  padding: 25px;
+  box-shadow: 5px 10px 5px hsl(229, 6%, 66%);
+}
+h1{
+  font-weight: 200;
+}
+span{
+  font-weight: 600;
+}
+.Supervisor{
+  border-top: 5px solid Cyan;
+  position: absolute;
+  top: 450px;
+  left: 100px;
+}
+.Team-Builder{
+  border-top: 5px solid Red;
+  position: absolute;
+  top: 300px;
+  left: 500px;
+
+  }
+.Karma{
+  border-top: 5px solid Orange;
+  position: absolute;
+  top:600px;
+  left: 500px;
+}
+.Calculator{
+  border-top: 5px solid blue;
+  position: absolute;
+  top: 450px;
+  left: 900px;
+}
+.images{
+  margin: 20px;
+  position: relative;
+  top:20px;
+  left:200px;
+}
+footer{
+  display: inline;
+  position: relative;
+  top: 700px;
+}
